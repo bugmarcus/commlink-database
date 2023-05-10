@@ -30,7 +30,7 @@ Projeto desenvolvido para o evento Maratona Kenzie dia 06/05/2023.
 
 - [Layout Maratona nas Estrelas](https://www.figma.com/file/8czyicdQ7j0kCJXc3G06lj/Evento-Star-Wars?type=design&node-id=34-92&t=nKQPR7dFp7o6m6b2-0)
 
-## LinkedIn das Instrutoras
+## LinkedIn dos Instrutores
 
 - [Nicole Pimenta](https://www.linkedin.com/in/nicole-pimenta/)
 - [Rafael Bertoldo](https://www.linkedin.com/in/rafaeljbertoldo/)
